@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### `Preview website`
+
+You can preview the website on (https://react-portfolio-website-navy.vercel.app/).
+
 In the project directory, you can run:
 
 ### `yarn start`
